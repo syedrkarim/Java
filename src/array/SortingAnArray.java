@@ -7,6 +7,16 @@ public class SortingAnArray {
 	public static void main(String[] args) {
 
 		int a[] = { 12, 5, 56, -2, 32, 2, -26, 9, 43, 94, -78 };
+		//String color[] = { "Red", "Green", "Blue" };
+		//char letter[] = { 's', 'd', 'b', 'v', 'w' };
+
+		/*
+		 * Arrays.sort(letter); System.out.println(Arrays.toString(letter));
+		 */
+
+		/*
+		 * Arrays.sort(color); System.out.println(Arrays.toString(color));
+		 */
 
 		/*
 		 * Arrays.sort(a); System.out.println(Arrays.toString(a));

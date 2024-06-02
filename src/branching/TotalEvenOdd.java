@@ -17,17 +17,17 @@ public class TotalEvenOdd {
 				odd++;
 		}
 		System.out.println("Total Even: " + even + "  " + "Total Odd: " + odd);
-		
-		/*List <Integer> evenarr = new ArrayList<>();
-		List <Integer> oddarr = new ArrayList<>();
-		for(int i=0;i<number.length;i++) {
-			if(number[i]%2==0)
+
+		/*List<Integer> evenarr = new ArrayList<>();
+		List<Integer> oddarr = new ArrayList<>();
+		for (int i = 0; i < number.length; i++) {
+			if (number[i] % 2 == 0)
 				evenarr.add(number[i]);
 			else
 				oddarr.add(number[i]);
 		}
-		System.out.println("Even number: "+evenarr);
-		System.out.println("Odd number: "+oddarr);*/
+		System.out.println("Even number: " + evenarr);
+		System.out.println("Odd number: " + oddarr);*/
 
 	}
 

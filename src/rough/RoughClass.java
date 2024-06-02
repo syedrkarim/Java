@@ -2,14 +2,14 @@ package rough;
 
 public class RoughClass {
 	private RoughClass(int data) {
-		System.out.printf("constructor called");
+		System.out.println("constructor called");
 	}
 	protected static RoughClass create(int data) {
 		RoughClass obj = new RoughClass(data);
 		return obj;
 	}
 	public void mymethod() {
-		System.out.printf("method called");
+		System.out.println("method called");
 	}
 	
 	public static void main(String[] args) {
@@ -19,3 +19,4 @@ public class RoughClass {
 	}
 
 }
+
